@@ -1,0 +1,18 @@
+[
+    {
+        "title": "remera",
+        "price": 500,
+        "id": 1
+    },
+    {
+        "title": "polera",
+        "price": 400,
+        "id": 2
+    },
+    {
+        
+        "title": "buzo",
+        "price": 800,
+        "id": 3
+    }
+]
