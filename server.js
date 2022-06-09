@@ -6,9 +6,9 @@ const PORT = 8080
 
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
-app.use('/static', express.static('public'))
+app.use('static', express.static('plubic'))
 
-app.use('/productos', productsRouter)
+app.use('/', productsRouter)
 
 
 app.get('/', (req, res)=>{

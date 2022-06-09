@@ -1,18 +1,1 @@
-[
-    {
-        "title": "remera",
-        "price": 500,
-        "id": 1
-    },
-    {
-        "title": "polera",
-        "price": 400,
-        "id": 2
-    },
-    {
-        
-        "title": "buzo",
-        "price": 800,
-        "id": 3
-    }
-]
+[{"title":"remera","price":500,"id":1},{"title":"buzo","price":700,"id":2},{"title":"pantalon","price":600,"id":3}]
